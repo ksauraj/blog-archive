@@ -161,6 +161,7 @@ Have a good read 📖
 
 <section id="S">
   <h1>S</h1>
+     <a href="https://fosscu.substack.com/p/supercharge-your-linux-command-line"><p>Supercharge Your Linux Command Line: Exploring Bash, Fish, and Zsh with Plugin Managers</p></a>
   
 </section>
 
